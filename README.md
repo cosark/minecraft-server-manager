@@ -221,6 +221,10 @@ pm2 save
 > **Time zone & region:** picked during first-run setup (auto-detected from your system) and changeable
 > in Settings. All dates and player-activity times display in the zone you choose.
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Minecraft%20Server%20Manager/)
+
 ---
 
 ## Screenshots
